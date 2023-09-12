@@ -1,1 +1,1 @@
-ALGORITHM-VISUALIZER
+Algorithm Visualizer
